@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Deneme : MonoBehaviour
+public class Delivery : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
