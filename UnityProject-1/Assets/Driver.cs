@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Driver : MonoBehaviour
 {
-    [SerializeField] float steerSpeed= 1f;
-    [SerializeField] float moveSpeed=0.01f;
+    [SerializeField] float steerSpeed= 100f;
+    [SerializeField] float moveSpeed=20f;
 
     // Update is called once per frame
     void Update()
